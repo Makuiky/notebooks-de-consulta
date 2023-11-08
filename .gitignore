@@ -1,1 +1,3 @@
 notebooks kaggle
+.ipynb_checkpoints
+*.png
